@@ -1,0 +1,102 @@
+.icon{
+    width: 24px;
+    height: 24px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+.logo{
+    background-image: url(../img/Twitter.svg);
+}
+.icon-home{
+    background-image: url(../img/Home-Fill.svg);
+}
+.icon-explore{
+    background-image: url(../img/Explore.svg);
+}
+.icon-notification{
+    background-image: url(../img/Notifications.svg);
+}
+.icon-message{
+    background-image: url(../img/Messages.svg);
+}
+.icon-bookmarks{
+    background-image: url(../img/Bookmarks.svg);
+}
+.icon-list{
+    background-image: url(../img/Lists.svg);
+}
+.icon-profile{
+    background-image: url(../img/Profile.svg);
+}
+.icon-more{
+    background-image: url(../img/More.svg);
+}
+.icon-20{
+    width: 20px;
+    height: 20px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+.icon-private{
+    background-image: url(../img/Private.svg);
+}
+.icon-more-2{
+    background-image: url(../img/More-2.svg);
+}
+.icon-timeline{
+    background-image: url(../img/Timeline-Prop.svg);
+}
+.icon-media{
+    background-image: url(../img/Media.svg);
+}
+.icon-gif{
+    background-image: url(../img/Gif.svg);
+}
+.icon-poll{
+    background-image: url(../img/Poll.svg);
+}
+.icon-emoji{
+    background-image: url(../img/Emoji.svg);
+}
+.icon-schedule{
+    background-image: url(../img/Schedule.svg);
+}
+.icon-verified{
+    background-image: url(../img/Verified.svg);
+}
+.icon-reply{
+    background-image: url(../img/Reply.svg);
+}
+.icon-retweet{
+    background-image: url(../img/Retweet.svg);
+}
+.icon-react{
+    background-image: url(../img/React.svg);
+}
+.icon-share{
+    background-image: url(../img/Share.svg);
+}
+.icon-search{
+    background-image: url(../img/Search.svg);
+}
+.icon-18{
+    width: 18px;
+    height: 18px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+.icon-settings{
+    background-image: url(../img/Settings.svg);
+}

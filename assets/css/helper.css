@@ -1,0 +1,33 @@
+.mg-39{
+    margin-bottom: 39px;
+}
+.pp{
+    width: 48px;
+    height: 48px;
+}
+.mg-16r{
+    margin-right: 16px;
+}
+.mg-100{
+    margin-right: 100px;
+}
+.image-3{
+    width: 490px;
+    height: 284px;
+    margin-top: 12px;
+    margin-right: 18px;
+}
+.ai-center{
+    align-items: center;
+}
+.mg-4{
+    margin-bottom: 6px;
+}
+.trend-link {
+    padding: 12px 16px;
+    & a {
+      font-weight: 700;
+      font-size: 15px;
+      color: #1d9bf0;
+    }
+}
